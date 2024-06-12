@@ -2,4 +2,5 @@
 
 
 Hello!!!
-    Here I've uploaded all the data science assignments given by ExcelR.
+
+    Here I've uploaded all the data science assignments given by ExcelR academy.
